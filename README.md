@@ -5,9 +5,9 @@ The original paper in pdf:
 
 Main MATLAB scripts:
   main_random_load_profile.m    this script finds the random loading profile of transformer causing the normal ageing. In the 
-                                paper, Figure 1 shows three random loading profile generated with this script 
-  main_optim_energy_limit.m     this script finds the optimal loadings profile maximizing the energy transfer through transformer 
-                                (for 1 day and 7 days). In the paper these results are shown in Figure 4
+                                paper, Figure 1 shows three random loading profiles generated with this script 
+  main_optim_energy_limit.m     this script finds the optimal loading profile which maximizes the energy transfer through 
+                                transformer (for 1 day and 7 days). In the paper these results are shown in Figure 4
 
 Additional functions and data:  
   distrbution_transformer_optim.m         thermal model of ONAN distrbution transformer in accordance with IEC 60076-7. This 
