@@ -3,7 +3,7 @@
 The original paper in pdf:  
   final_paper.pdf
 
-Main MATLAB scripts:  
+Main MATLAB scripts:
   main_random_load_profile.m    this script finds the random loading profile of transformer causing the normal ageing. In the  paper, Figure 1 shows three random                                       loading profile generated with this script 
   main_optim_energy_limit.m     this script finds the optimal loadings profile maximizing the energy transfer through transformer (for 1 day and 7 days). In the paper                                 these results are shown in Figure 4
 
