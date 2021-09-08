@@ -1,7 +1,7 @@
 # For this moment you can find the original paper and partial MATLAB code (the rest code will be added later in September): 
 <pre>
 The original paper in pdf:  
-  final_paper.pdf
+  FINAL PAPER.pdf
 
 Main MATLAB scripts:
   main_random_load_profile.m    this script finds the random loading profile of transformer causing the normal ageing. In the 
