@@ -1,14 +1,13 @@
 # For this moment you can find the original paper and partial MATLAB code (the rest code will be added later in September): 
-
-The original paper accepted for 2021 CIRED conference in Geneve in pdf:  
+<pre>
+The original paper in pdf:  
   final_paper.pdf
 
-Main MATLAB scripts:
+Main MATLAB scripts:  
   main_random_load_profile.m    this script finds the random loading profile of transformer causing the normal ageing. In the  paper, Figure 1 shows three random                                       loading profile generated with this script 
-
   main_optim_energy_limit.m     this script finds the optimal loadings profile maximizing the energy transfer through transformer (for 1 day and 7 days). In the paper                                 these results are shown in Figure 4
-  
-Additional functions and data:
+
+Additional functions and data:  
   distrbution_transformer_optim.m         thermal model of ONAN distrbution transformer in accordance with IEC 60076-7. This function is called in 
                                           optimal_energy_limit.m and in main_optim_energy_limit.m. 
   
@@ -22,5 +21,7 @@ Additional functions and data:
   
   Variable_ambient_temperature.mat        Data (168x1) on ambient temperature during 1 week
   
+  
 Folder with  MATLAB figures from paper    Folder contains Figure 3, Figure 4 and Figure 8 from the paper
 
+</pre>
