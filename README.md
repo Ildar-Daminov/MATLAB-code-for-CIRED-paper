@@ -10,10 +10,10 @@ Main MATLAB scripts:
                                 transformer (for 1 day and 7 days). In the paper these results are shown in Figure 4
 
 Additional functions and data:  
-  distrbution_transformer_optim.m         thermal model of ONAN distrbution transformer in accordance with IEC 60076-7. This 
+  distrbution_transformer_optim.m         thermal model of ONAN distribution transformer in accordance with IEC 60076-7. This 
                                           function is called in optimal_energy_limit.m and in main_optim_energy_limit.m. 
   
-  distrbution_transformer_random_load.m   the same thermal model of ONAN distrbution transformer but with different outputs.
+  distrbution_transformer_random_load.m   the same thermal model of ONAN distribution transformer but with different outputs.
                                           This function is called in main_random_load_profile.m        
   
   optimal_energy_limit.m                  optimization problem formulated in MATLAB (Problem-based formulation). The objective 
