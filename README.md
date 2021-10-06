@@ -8,6 +8,7 @@ Main MATLAB scripts:
                                 paper, Figure 1 shows three random loading profiles generated with this script 
   main_optim_energy_limit.m     this script finds the optimal loading profile which maximizes the energy transfer through 
                                 transformer (for 1 day and 7 days). In the paper these results are shown in Figure 4
+  main_Figure6.m                this script generates the data for Figure 6
 
 Additional functions and data:  
   distrbution_transformer_optim.m         thermal model of ONAN distribution transformer in accordance with IEC 60076-7. This 
@@ -23,6 +24,8 @@ Additional functions and data:
   PUL_to_1min.m                           Function which converts hour data into 1-min resolution
   
   Variable_ambient_temperature.mat        Data (168x1) on ambient temperature during 1 week
+  
+  ONAN_interm_results.mat                 Precalculated data for construction of Figure 6 (used in main_Figure6.m)
   
   
 Folder with  MATLAB figures from paper    Folder contains Figure 3, Figure 4 and Figure 8 from the paper
