@@ -20,6 +20,8 @@ Additional functions and data:
   optimal_energy_limit.m                  optimization problem formulated in MATLAB (Problem-based formulation). The objective 
                                           function is maximization of energy transfer through transformer. Constraints: 
                                           Hot spot temperature<=120 degC; Top-oil temperature<=105 degC and Ageing<=1 pu
+ 
+  optimal_energy_limitFig6.m              The same as optimal_energy_limit.m but with additonal outputs (needed for Fig.6)                              
   
   PUL_to_1min.m                           Function which converts hour data into 1-min resolution
   
