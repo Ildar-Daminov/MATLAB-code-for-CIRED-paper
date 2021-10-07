@@ -9,6 +9,8 @@ Main MATLAB scripts:
   main_optim_energy_limit.m     this script finds the optimal loading profile which maximizes the energy transfer through 
                                 transformer (for 1 day and 7 days). In the paper these results are shown in Figure 4
   main_Figure6.m                this script generates the data for Figure 6
+  
+  main_Figure8.m                this script generates data and the Figure 8
 
 Additional functions and data:  
   distrbution_transformer_optim.m         thermal model of ONAN distribution transformer in accordance with IEC 60076-7. This 
@@ -24,6 +26,8 @@ Additional functions and data:
   optimal_energy_limitFig6.m              The same as optimal_energy_limit.m but with additonal outputs (needed for Fig.6)                              
   
   PUL_to_1min.m                           Function which converts hour data into 1-min resolution
+  
+  createfigure8.m                         Function which creates the Figure 8 (used in main_Figure8.m)
   
   Variable_ambient_temperature.mat        Data (168x1) on ambient temperature during 1 week
   
