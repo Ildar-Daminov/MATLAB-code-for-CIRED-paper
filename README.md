@@ -1,4 +1,4 @@
-# For this moment you can find the original paper and  MATLAB code: 
+#  You can find the original paper and  MATLAB code: 
 <pre>
 The original paper in pdf:  
   FINAL PAPER.pdf
