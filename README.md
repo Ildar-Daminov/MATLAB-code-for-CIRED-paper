@@ -48,7 +48,7 @@ Additional functions:
 * createfigure8.m                         Function which creates the Figure 8 (used in main_Figure8.m)
 
 Data: 
-* Variable_ambient_temperature.mat        Data (168x1) on ambient temperature during 1 week
+* Variable_ambient_temperature.mat        Data (168x1) on ambient temperature during 1 week (source: [MeteoBlue](https://www.meteoblue.com/fr/historyplus)) 
   
 * ONAN_interm_results.mat                 Precalculated data for construction of Figure 6 (used in main_Figure6.m)
   
